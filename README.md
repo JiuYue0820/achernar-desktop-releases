@@ -4,6 +4,15 @@
 
 > **The source will be released as open source in the near future.** Until then, Achernar Desktop is available to internal testers only. Please do not redistribute the installers outside the test group.
 
+## Copyright and permitted use
+
+**Copyright © 2026 JiuYue0820. All rights reserved for original proprietary portions of Achernar Desktop that are not already covered by another license.**
+
+- Public availability of installers and plans to open-source the project do not, by themselves, grant an open-source license. A future source release will identify its license separately.
+- Except where permitted by applicable law, GitHub's Terms of Service, an existing license or written authorization, do not copy, redistribute, resell or publish modified versions of those proprietary portions. Preserve required copyright, author and license notices; do not misrepresent authorship or official affiliation.
+- Third-party components and previously licensed code, including MIT-licensed portions, remain governed by their respective licenses. This notice does not revoke or restrict existing permissions.
+- This notice concerns copyrightable original expression; it does not claim exclusive rights over general ideas, functionality or independently created implementations. For permission requests or suspected infringement, [open an issue](../../issues) with relevant links and evidence. The rights holder reserves the right to seek remedies available under applicable law.
+
 ---
 
 ## Download
@@ -57,6 +66,15 @@ Internal builds use `0.2.x` for the current beta line. Every published tag is an
 
 > **源代码将在不久后开源。** 在此之前，Achernar Desktop 仅供内部测试人员使用，请不要把安装包转发到测试组之外。
 
+## 版权与使用声明
+
+**版权所有 © 2026 JiuYue0820。Achernar Desktop 尚未通过其他许可证授权的原创专有部分，保留所有权利。**
+
+- 安装包公开可下载、源码计划未来开源，并不等于已经授予开源许可；后续开源以明确发布的许可证为准。
+- 除适用法律、GitHub 服务条款、既有许可证或书面授权允许的情形外，不得擅自复制、再分发、转售上述专有部分或发布其修改版本。应保留必要的版权、作者署名和许可声明，不得冒充原创作者或官方发布方。
+- 第三方组件及已经按 MIT 等许可证授权的内容，继续遵循各自许可证；本声明不撤销或限制任何既有授权。
+- 本声明针对受著作权保护的原创表达，不主张对通用想法、功能或独立创作实现的专有权。授权咨询或疑似侵权反馈，请在本仓库 [提交 Issue](../../issues)，提供相关链接与证据；权利人保留依法寻求救济的权利。
+
 ## 下载
 
 从 [**Releases**](../../releases/latest) 页面下载最新安装包：
@@ -107,6 +125,15 @@ Internal builds use `0.2.x` for the current beta line. Every published tag is an
 **このリポジトリはソースコードではありません。** 内部ベータ版インストーラーの配布と、アプリ内自動アップデートのためだけに存在します。
 
 > **ソースコードは近いうちにオープンソース化されます。** それまでは内部テスター限定です。インストーラーをテストグループ外へ再配布しないでください。
+
+## 著作権と利用に関する声明
+
+**Copyright © 2026 JiuYue0820. Achernar Desktop の独自の専有部分のうち、他のライセンスで既に許諾されていない部分について、すべての権利を留保します。**
+
+- インストーラーの公開や将来のオープンソース化の予定だけでは、オープンソースライセンスは付与されません。ソースを公開する際にライセンスを別途明示します。
+- 適用法、GitHub の利用規約、既存のライセンスまたは書面による許諾で認められる場合を除き、上記の専有部分の複製、再配布、転売、改変版の公開は認められません。必要な著作権・著作者・ライセンス表示を保持し、著作者や公式配布元を偽らないでください。
+- 第三者のコンポーネントおよび MIT などで既に許諾された部分には、それぞれのライセンスが引き続き適用されます。本声明は既存の許諾を撤回・制限しません。
+- 対象は著作権で保護される独自の表現であり、一般的なアイデア、機能、独立して作成された実装の独占権を主張するものではありません。許諾の相談や侵害の疑いは、関連リンクと証拠を添えて [Issue](../../issues) でお知らせください。権利者は適用法に基づく救済を求める権利を留保します。
 
 ## ダウンロード
 
